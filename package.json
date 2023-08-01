@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "morgan": "^1.10.0",
+    "supertest": "^6.3.3"
+  },
+  "name": "practica5",
+  "version": "1.0.0",
+  "main": "api.test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/api.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
